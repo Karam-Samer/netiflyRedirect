@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/*"
+  to = "https://mohamedaboelghar.com/:splat"
+  status = 301
+  force = true
+
+
+
+
